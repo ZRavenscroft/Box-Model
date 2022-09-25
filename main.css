@@ -1,0 +1,142 @@
+.menu li{
+    display: inline-block;
+    color: #E8E8E8;
+    margin-left: 25px;
+}
+#logo{
+    font-size: 22px;
+    color: #E8E8E8;
+}
+.container{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.nav{
+    background-color: white;
+    padding: 20px 0;
+    position: fixed;
+}
+.w-100{
+    width: 100%;
+}
+.text-gray{
+    color: #808080;
+}
+.text-white{
+    color: #fff;
+}
+.text-center{
+    text-align: center;
+}
+#htext h2{
+    font-size: 50px;
+}
+.btn{
+    background-color: #ff4040;
+    border-radius: 30px;
+    padding: 20px 40px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.25s;
+}
+.btn-2{
+    background-color: white;
+    border-radius: 30px;
+    padding: 20px 40px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.25s;
+}
+.btn:hover{
+    background-color: #e61919;
+}
+.tnr{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.bg-size{
+    width: 1188px;
+    padding: 89px;
+    background-position: center;
+    background-size: 100%;
+}
+.menu li a:hover{
+    color: #808080;
+    transition: 0.25s;
+}
+#logo h2 a:hover{
+    color: #808080;
+    transition: 0.25s;
+}
+#about{
+    background-color: #ff4040;
+    width: 1026px;
+    padding: 100px 170px;
+}
+.text-size{
+    font-size: 30px;
+    font-weight: bold;
+}
+#service{
+    background-color: #fff;
+    padding: 100px 0px;
+}
+.item{
+    width: 108vh;
+    text-align: center;
+    font-size: 70px;
+    color: #40ff40;
+    display: inline;
+}
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 55px;
+}
+.subtitle{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #808080;
+    margin-bottom: 80px;
+}
+#portfolio{
+
+}
+.image{
+    
+}
+.port-bg{
+    width: 449.6px;
+    height: 200px;
+    background-position: center;
+}
+.m{
+    margin-left: 150px ;
+}
+#portf{
+    background-color: #292929;
+    width: 1026px;
+    padding: 170px 161.5px;
+}
+.port-color{
+    background-color: #ff4040;
+    width: 100%;
+    height: 100%;
+}
+.port-bg:hover .port-color{
+    opacity: 1;
+}
+#contact{
+    width: 100%;
+}
+.m-t-b{
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
